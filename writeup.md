@@ -3,7 +3,7 @@
 In the Control project, I implemented a cascaded PID controller that takes the velocity, 
 position and acceleration as inputs and outputs the thrust commands for the four motors.
 
-The cascaded controller is comprized of five individual controllers as shown in the picture below.
+The cascaded controller is comprised of five individual controllers as shown in the picture below.
 
 ![Control](./Control.jpg)
 
